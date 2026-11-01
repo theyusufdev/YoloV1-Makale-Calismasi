@@ -124,6 +124,8 @@ Redmon, J., Divvala, S., Girshick, R., & Farhadi, A. (2016).
 
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
 
+https://github.com/tanjeffreyz/yolo-v1
+
 [Makalenin bağlantısı](https://arxiv.org/abs/1506.02640)
 
 ---
